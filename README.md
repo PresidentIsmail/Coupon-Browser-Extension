@@ -1,7 +1,7 @@
 
 # Coupon Browser Extension
 
-⚠️ **Important Notice:** This extension is no longer actively maintained and may not work as expected due to changes in website structures and coupon code formats. Feel free to explore the code or adapt it for personal use.
+⚠️ **Important Notice:** This extension is no longer actively maintained and may not work as expected due to changes in website structures and coupon code formats. Feel free to explore the code or adapt it for personal use. 
 
 ## Overview
 
